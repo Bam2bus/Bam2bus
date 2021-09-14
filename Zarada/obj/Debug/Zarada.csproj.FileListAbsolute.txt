@@ -1,0 +1,10 @@
+E:\Games\Programi\C#\Zarada\bin\Debug\Zarada.exe.config
+E:\Games\Programi\C#\Zarada\bin\Debug\Zarada.exe
+E:\Games\Programi\C#\Zarada\bin\Debug\Zarada.pdb
+E:\Games\Programi\C#\Zarada\obj\Debug\Zarada.csprojAssemblyReference.cache
+E:\Games\Programi\C#\Zarada\obj\Debug\Zarada.Glavni.resources
+E:\Games\Programi\C#\Zarada\obj\Debug\Zarada.Properties.Resources.resources
+E:\Games\Programi\C#\Zarada\obj\Debug\Zarada.csproj.GenerateResource.cache
+E:\Games\Programi\C#\Zarada\obj\Debug\Zarada.csproj.CoreCompileInputs.cache
+E:\Games\Programi\C#\Zarada\obj\Debug\Zarada.exe
+E:\Games\Programi\C#\Zarada\obj\Debug\Zarada.pdb

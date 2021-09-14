@@ -1,0 +1,15 @@
+E:\Games\Programi\C#\Igra_Klase\bin\Debug\netcoreapp3.1\Igra_Klase.exe
+E:\Games\Programi\C#\Igra_Klase\bin\Debug\netcoreapp3.1\Igra_Klase.deps.json
+E:\Games\Programi\C#\Igra_Klase\bin\Debug\netcoreapp3.1\Igra_Klase.runtimeconfig.json
+E:\Games\Programi\C#\Igra_Klase\bin\Debug\netcoreapp3.1\Igra_Klase.runtimeconfig.dev.json
+E:\Games\Programi\C#\Igra_Klase\bin\Debug\netcoreapp3.1\Igra_Klase.dll
+E:\Games\Programi\C#\Igra_Klase\bin\Debug\netcoreapp3.1\Igra_Klase.pdb
+E:\Games\Programi\C#\Igra_Klase\obj\Debug\netcoreapp3.1\Igra_Klase.csprojAssemblyReference.cache
+E:\Games\Programi\C#\Igra_Klase\obj\Debug\netcoreapp3.1\Igra_Klase.Glavna.resources
+E:\Games\Programi\C#\Igra_Klase\obj\Debug\netcoreapp3.1\Igra_Klase.csproj.GenerateResource.cache
+E:\Games\Programi\C#\Igra_Klase\obj\Debug\netcoreapp3.1\Igra_Klase.AssemblyInfoInputs.cache
+E:\Games\Programi\C#\Igra_Klase\obj\Debug\netcoreapp3.1\Igra_Klase.AssemblyInfo.cs
+E:\Games\Programi\C#\Igra_Klase\obj\Debug\netcoreapp3.1\Igra_Klase.csproj.CoreCompileInputs.cache
+E:\Games\Programi\C#\Igra_Klase\obj\Debug\netcoreapp3.1\Igra_Klase.dll
+E:\Games\Programi\C#\Igra_Klase\obj\Debug\netcoreapp3.1\Igra_Klase.pdb
+E:\Games\Programi\C#\Igra_Klase\obj\Debug\netcoreapp3.1\Igra_Klase.genruntimeconfig.cache

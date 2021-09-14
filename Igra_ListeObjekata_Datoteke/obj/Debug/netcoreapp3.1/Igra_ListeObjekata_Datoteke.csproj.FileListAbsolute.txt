@@ -1,0 +1,15 @@
+E:\Games\Programi\C#\Igra_ListeObjekata_Datoteke\bin\Debug\netcoreapp3.1\Igra_ListeObjekata_Datoteke.exe
+E:\Games\Programi\C#\Igra_ListeObjekata_Datoteke\bin\Debug\netcoreapp3.1\Igra_ListeObjekata_Datoteke.deps.json
+E:\Games\Programi\C#\Igra_ListeObjekata_Datoteke\bin\Debug\netcoreapp3.1\Igra_ListeObjekata_Datoteke.runtimeconfig.json
+E:\Games\Programi\C#\Igra_ListeObjekata_Datoteke\bin\Debug\netcoreapp3.1\Igra_ListeObjekata_Datoteke.runtimeconfig.dev.json
+E:\Games\Programi\C#\Igra_ListeObjekata_Datoteke\bin\Debug\netcoreapp3.1\Igra_ListeObjekata_Datoteke.dll
+E:\Games\Programi\C#\Igra_ListeObjekata_Datoteke\bin\Debug\netcoreapp3.1\Igra_ListeObjekata_Datoteke.pdb
+E:\Games\Programi\C#\Igra_ListeObjekata_Datoteke\obj\Debug\netcoreapp3.1\Igra_ListeObjekata_Datoteke.Glavna.resources
+E:\Games\Programi\C#\Igra_ListeObjekata_Datoteke\obj\Debug\netcoreapp3.1\Igra_ListeObjekata_Datoteke.csproj.GenerateResource.cache
+E:\Games\Programi\C#\Igra_ListeObjekata_Datoteke\obj\Debug\netcoreapp3.1\Igra_ListeObjekata_Datoteke.AssemblyInfoInputs.cache
+E:\Games\Programi\C#\Igra_ListeObjekata_Datoteke\obj\Debug\netcoreapp3.1\Igra_ListeObjekata_Datoteke.AssemblyInfo.cs
+E:\Games\Programi\C#\Igra_ListeObjekata_Datoteke\obj\Debug\netcoreapp3.1\Igra_ListeObjekata_Datoteke.csproj.CoreCompileInputs.cache
+E:\Games\Programi\C#\Igra_ListeObjekata_Datoteke\obj\Debug\netcoreapp3.1\Igra_ListeObjekata_Datoteke.dll
+E:\Games\Programi\C#\Igra_ListeObjekata_Datoteke\obj\Debug\netcoreapp3.1\Igra_ListeObjekata_Datoteke.pdb
+E:\Games\Programi\C#\Igra_ListeObjekata_Datoteke\obj\Debug\netcoreapp3.1\Igra_ListeObjekata_Datoteke.genruntimeconfig.cache
+E:\Games\Programi\C#\Igra_ListeObjekata_Datoteke\obj\Debug\netcoreapp3.1\Igra_ListeObjekata_Datoteke.csprojAssemblyReference.cache
