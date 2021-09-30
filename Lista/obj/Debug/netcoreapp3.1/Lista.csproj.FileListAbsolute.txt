@@ -1,0 +1,15 @@
+E:\Games\Programi\C#\Lista\bin\Debug\netcoreapp3.1\Lista.exe
+E:\Games\Programi\C#\Lista\bin\Debug\netcoreapp3.1\Lista.deps.json
+E:\Games\Programi\C#\Lista\bin\Debug\netcoreapp3.1\Lista.runtimeconfig.json
+E:\Games\Programi\C#\Lista\bin\Debug\netcoreapp3.1\Lista.runtimeconfig.dev.json
+E:\Games\Programi\C#\Lista\bin\Debug\netcoreapp3.1\Lista.dll
+E:\Games\Programi\C#\Lista\bin\Debug\netcoreapp3.1\Lista.pdb
+E:\Games\Programi\C#\Lista\obj\Debug\netcoreapp3.1\Lista.Glavna.resources
+E:\Games\Programi\C#\Lista\obj\Debug\netcoreapp3.1\Lista.csproj.GenerateResource.cache
+E:\Games\Programi\C#\Lista\obj\Debug\netcoreapp3.1\Lista.AssemblyInfoInputs.cache
+E:\Games\Programi\C#\Lista\obj\Debug\netcoreapp3.1\Lista.AssemblyInfo.cs
+E:\Games\Programi\C#\Lista\obj\Debug\netcoreapp3.1\Lista.csproj.CoreCompileInputs.cache
+E:\Games\Programi\C#\Lista\obj\Debug\netcoreapp3.1\Lista.dll
+E:\Games\Programi\C#\Lista\obj\Debug\netcoreapp3.1\Lista.pdb
+E:\Games\Programi\C#\Lista\obj\Debug\netcoreapp3.1\Lista.genruntimeconfig.cache
+E:\Games\Programi\C#\Lista\obj\Debug\netcoreapp3.1\Lista.csprojAssemblyReference.cache
